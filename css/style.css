@@ -1,0 +1,8 @@
+@font-face {src: url('../sans/yes.ttf'); font-family: '../sans/yes.ttf';}
+@font-face {src: url('../sans/ore.ttf'); font-family: '../sans/ore.ttf';}
+@font-face {src: url('../sans/cormorantInfant.ttf'); font-family: '../sans/cormorantInfant.ttf';}
+.list {display: flex; justify-content: space-between;}
+.ser {font-family: '../sans/yes.ttf', Helvetica, Arial, sans-serif;}
+.ser2 {font-family: '../sans/ore.ttf', Helvetica, Arial, sans-serif; font-size: 30px;}
+.ser3 {font-family: '../sans/cormorantInfant.ttf', Helvetica, Arial, sans-serif;}
+.contacts-icon {margin-left: 0px auto;}
